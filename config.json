@@ -1,0 +1,20 @@
+{
+  "name": "GitHub 工具演示项目",
+  "version": "1.0.0",
+  "description": "演示如何使用 GitHub API 工具进行项目管理",
+  "author": "lindengjian",
+  "language": "lua",
+  "gameEngine": "cocos2d-x",
+  "features": [
+    "仓库创建和管理",
+    "文件操作",
+    "分支管理",
+    "Issue 和 PR 管理",
+    "代码搜索"
+  ],
+  "settings": {
+    "autoUpdate": true,
+    "debugMode": false,
+    "maxPlayers": 4
+  }
+}
